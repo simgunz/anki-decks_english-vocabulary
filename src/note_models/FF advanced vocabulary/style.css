@@ -1,0 +1,19 @@
+.card {
+ font-family: arial;
+ font-size: x-large;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.card1 { background-color: #FFFFFF; }
+.card2 { background-color: #FFFFFF; }
+
+img {
+max-height: 300px;
+}
+
+.artreminder {
+color: red;
+font-size: medium;
+}

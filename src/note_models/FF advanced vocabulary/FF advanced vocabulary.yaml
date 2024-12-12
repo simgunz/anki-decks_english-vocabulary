@@ -1,0 +1,49 @@
+name: FF advanced vocabulary
+id: e33be744-b8c4-11ef-8fc8-e02e0b8913a9
+css_file: src/note_models/FF advanced vocabulary/style.css
+fields:
+- name: Word
+- name: Specification term
+  font: Arial
+- name: Translation
+  font: Arial
+- name: Picture
+  font: Arial
+  font_size: 12
+- name: Pronunciation sound
+  font: Arial
+- name: IPA transcription
+  font: Arial
+- name: Article
+  font: Arial
+- name: Article pronunciation
+  font: Arial
+- name: Gender
+  font: Arial
+  font_size: 12
+- name: PoS
+  font: Arial
+- name: Order
+  font_size: 15
+- name: Example sentence(s)
+  font: Arial
+- name: Example sentence(s) deletion
+  font: Arial
+- name: Notes
+  font: Arial
+- name: Test spelling?
+  font: Arial
+templates:
+- name: Comprehension Card
+  html_file: src/note_models/FF advanced vocabulary/Comprehension Card.html
+- name: Production Card
+  html_file: src/note_models/FF advanced vocabulary/Production Card.html
+tags: N4.L@1c75ea6
+required_fields_per_template:
+- - 0
+  - any
+  - - 0
+- - 1
+  - any
+  - - 3
+    - 12

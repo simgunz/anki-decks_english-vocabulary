@@ -1,0 +1,57 @@
+name: FF basic vocabulary
+id: 6ffb50c4-b73b-11ef-baed-5254004418db
+css_file: src/note_models/FF basic vocabulary/style.css
+fields:
+- name: Word
+- name: Specification term
+  font: Arial
+- name: Translation
+  font: Arial
+- name: Picture
+  font: Arial
+  font_size: 12
+- name: Pronunciation sound
+  font: Arial
+- name: IPA transcription
+  font: Arial
+- name: Article
+  font: Arial
+- name: Article pronunciation
+  font: Arial
+- name: Gender
+  font: Arial
+  font_size: 12
+- name: PoS
+  font: Arial
+- name: Order
+  font_size: 15
+- name: Example sentence(s)
+  font: Arial
+- name: Notes
+  font: Arial
+- name: Test spelling?
+  font: Arial
+templates:
+- name: Comprehension Card
+  html_file: src/note_models/FF basic vocabulary/Comprehension Card.html
+- name: Production Card
+  html_file: src/note_models/FF basic vocabulary/Production Card.html
+- name: Spelling?
+  html_file: src/note_models/FF basic vocabulary/Spelling?.html
+tags: N4.L@49865a6
+required_fields_per_template:
+- - 0
+  - any
+  - - 0
+    - 1
+    - 6
+    - 9
+- - 1
+  - any
+  - - 0
+    - 3
+- - 2
+  - any
+  - - 0
+    - 4
+    - 7

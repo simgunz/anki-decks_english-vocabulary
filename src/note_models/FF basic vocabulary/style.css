@@ -1,0 +1,33 @@
+.card {
+ font-family: arial;
+ font-size: x-large;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.card1 { background-color: #FFFFFF; }
+.card2 { background-color: #FFFFFF; }
+
+img {
+max-height: 300px;
+}
+
+.artreminder {
+color: red;
+font-size: medium;
+}
+
+.specterm {
+font-size: 0.8em;
+color:grey;
+}
+
+.gender{
+color:black;
+font-size: 0.8em;
+}
+
+.notes{
+font-size:0.8em;
+}
