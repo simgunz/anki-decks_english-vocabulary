@@ -364,7 +364,7 @@
                     "id": null,
                     "name": "Comprehension Card",
                     "ord": 0,
-                    "qfmt": "{{Article}} {{Word}} ({{PoS}}) \n<br>\n{{#Disambiguation term}}\n<span class=specterm>[{{Disambiguation term}}]</span>\n{{/Disambiguation term}}\n"
+                    "qfmt": "{{#Article}}{{Article}} {{/Article}}{{Word}} \n<br/>\n{{#PoS}}({{PoS}}){{/PoS}}\n<br/>\n{{#Disambiguation term}}\n<span class=specterm>[{{Disambiguation term}}]</span>\n{{/Disambiguation term}}\n"
                 },
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<span style=\"font-size:1.5em;\">{{Article}} {{Word}} ({{PoS}})</span>\n\n{{#IPA}}\n<br>\n{{IPA}}\n{{/IPA}}\n\n{{#Gender}}\n<br><br>\n<span class=gender><b>Gender: </b>{{Gender}}</span>\n{{/Gender}}\n\n{{#Example sentence(s)}}\n<br><br>\n{{Example sentence(s)}}\n{{/Example sentence(s)}}\n\n\n<br><br>\n<span class=notes><b>Notes: </b></span>\n\n\n<br>\n\n{{Article pronunciation}}{{Word pronunciation}}",
