@@ -85,7 +85,9 @@
     "extendRev": 0,
     "media_files": [
         "cambridge-0e117afa-abd212bd-918f1313-87159ee5-7ccc8aff.mp3",
-        "i-bigodini-per-una-piega-perfetta.jpg"
+        "cambridge-56fcfe33-eddee0e5-13e40989-14f8008a-54db6564.mp3",
+        "i-bigodini-per-una-piega-perfetta.jpg",
+        "v4-460px-Self-Entitled-Step-22.jpg"
     ],
     "name": "Languages::English::Vocabulary",
     "newLimit": null,
@@ -322,6 +324,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "Vocabulary - Vocabulary",
+            "originalStockKind": 1,
             "req": [
                 [
                     0,
@@ -416,21 +419,19 @@
             ],
             "guid": "ilUvnIwX(O",
             "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
-            "tags": [
-                "draft"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "Entitled",
+                "Entitled&nbsp;",
+                "<a href=\"https://www.google.it/url?sa=i&amp;url=https%3A%2F%2Fwww.wikihow.com%2FSelf-Entitled&amp;psig=AOvVaw3cGHpHOcO-87n7pf6mlEfo&amp;ust=1738262345129000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBQQjRxqFwoTCKCsq4fKm4sDFQAAAAAdAAAAABAE\"><img alt=\"12 Signs Someone Is Self-Entitled (&amp; How to Deal With It)\" src=\"v4-460px-Self-Entitled-Step-22.jpg\"></a>",
+                "[sound:cambridge-56fcfe33-eddee0e5-13e40989-14f8008a-54db6564.mp3]",
+                "ɛnˈtaɪtəld",
                 "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
+                "Believing&nbsp;oneself&nbsp;to be inherently deserving of privileges or special treatment",
+                "Essere&nbsp;autorizzato a fare&nbsp;<span style=\"text-decoration-line: underline;\">or</span>&nbsp;avere&nbsp;il&nbsp;diritto&nbsp;di fare",
+                "Kids who feel so entitled&nbsp;and&nbsp;think the world will&nbsp;revolve&nbsp;around them",
                 "",
                 "",
                 "",
@@ -440,9 +441,7 @@
             ],
             "guid": "N;Y{M:3C*.",
             "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
-            "tags": [
-                "draft"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -802,7 +801,9 @@
             ],
             "guid": "d*a9z;daaN",
             "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
-            "tags": []
+            "tags": [
+                "draft"
+            ]
         },
         {
             "__type__": "Note",
@@ -824,7 +825,9 @@
             ],
             "guid": "vjWZZ!Xou>",
             "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
-            "tags": []
+            "tags": [
+                "draft"
+            ]
         },
         {
             "__type__": "Note",
@@ -846,7 +849,9 @@
             ],
             "guid": "iCC1+p{JR<",
             "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
-            "tags": []
+            "tags": [
+                "draft"
+            ]
         }
     ],
     "reviewLimit": null,
