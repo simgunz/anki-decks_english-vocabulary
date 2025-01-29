@@ -7,6 +7,10 @@ Carte: un modo specifico di presentare la nota, ci possono essere più carte per
 Tipo di carta: struttura della carta specifica (es, vedo bandiera, devo ricordare il nome del paese). Ha un template front e un template back. Template sono HTML, fanno riferimento ai campi della nota. 
 Tag: etichetta che si può dare ad ogni carta (es. livello A1, livello A2 ecc)
 
+## Install
+CrowdAnki
+AwesomeTTS
+
 ## Workflow
 
 1. Git Synchronization
@@ -15,10 +19,18 @@ Tag: etichetta che si può dare ad ogni carta (es. livello A1, livello A2 ecc)
    ```
 
 2. Note Addition
-   - Add notes
+   - Add notes:
+- Drag picture directly in the field (e.g. from google images)
+- Pronunciation with AwesomeTTS (Cambridge Dictionary (en-US))
+- IPA: https://tophonetics.com/
+- Definition
+- Translation
+- Example sentence
+- POS (if multiple use)
+- Disambiguation (if multiple definitions)
 
 3. Anki Export
-   - Export using crowdanki
+   - Export using crowdanki (in parent directory)
 
 4. Git Update
    ```
