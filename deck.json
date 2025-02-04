@@ -84,7 +84,9 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "220px-Buffone.jpg",
         "cambridge-0e117afa-abd212bd-918f1313-87159ee5-7ccc8aff.mp3",
+        "cambridge-30cdc94d-804e68a6-2594b8fc-9622dfb0-3fb3735c.mp3",
         "cambridge-56fcfe33-eddee0e5-13e40989-14f8008a-54db6564.mp3",
         "i-bigodini-per-una-piega-perfetta.jpg",
         "v4-460px-Self-Entitled-Step-22.jpg"
@@ -496,25 +498,23 @@
             "__type__": "Note",
             "fields": [
                 "Antic",
+                "<img alt=\"buffone - Wikizionario\" src=\"220px-Buffone.jpg\">",
+                " [sound:cambridge-30cdc94d-804e68a6-2594b8fc-9622dfb0-3fb3735c.mp3]",
+                "ˈæntɪk",
+                "",
+                "<strong></strong>An attention-drawing, often wildly playful or funny act or action",
+                "Buffonata",
+                "The clown's <strong>antics</strong> had the whole crowd laughing.",
+                "",
+                "noun",
                 "",
                 "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "related to a joke",
                 "",
                 ""
             ],
             "guid": "p:h?8z]TfG",
             "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
-            "tags": [
-                "draft"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -851,6 +851,345 @@
             "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
             "tags": [
                 "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gizmo",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KGmDK:)KFp",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gauntlet",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F5CYnqb.Nv",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gig",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "I$5{-:~l)<",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gist",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "jx_%[GlT(<",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mischief",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "M]P6sRj{BY",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Embezzelment",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pNr`H=bmsV",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Murky",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "k%PhzKMzZf",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subside",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "...a fear",
+                "",
+                ""
+            ],
+            "guid": "A:Bcxnjq$j",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Den",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "f7p@=W.L;P",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dependable",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K*FL+/Ntu6",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Haul",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "yj;Y*al;`3",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nevermind",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "r=<)V+ZhGr",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft",
+                "use-more"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Brittle",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pnMc6@+3I+",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft",
+                "use-more"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Blunt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K_eYmUt02t",
+            "note_model_uuid": "e43d58b4-d375-11ef-bca0-5254004418db",
+            "tags": [
+                "draft",
+                "use-more"
             ]
         }
     ],
